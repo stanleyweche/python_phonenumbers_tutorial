@@ -1,4 +1,4 @@
-import phonenumbers, folium, sys, argparse, os,pycountry
+import phonenumbers, sys, argparse, os
 from phonenumbers import geocoder, timezone, carrier
 from colorama import init, Fore
 
